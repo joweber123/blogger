@@ -1,5 +1,4 @@
 $text-color: #2E2D33
-
 $theme-color: #1f3566
 $theme-color-secondary: #F4C71C
 
@@ -105,13 +104,17 @@ h3
       object-position: right
       box-sizing: border-box
 
-.image-small-post-container
-  float: left
-  display: inline
-  width: 30%
-  box-sizing: border-box
+
 .post-list-container-inner
   width: 50vw
+  height: 50vh
+  .img-small-post-container
+    height: 50vh
+    width: 60vw
+    overflow: hidden
+    .post-image-small
+      height: 100%
+      width: auto
 .post-list-container-main
   clear: both
 .small-post-description-container

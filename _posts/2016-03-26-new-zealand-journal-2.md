@@ -2,6 +2,7 @@
 layout: post
 title: New Zealand 2
 thumbnail: nz-2.jpg
+image: nz-j2/nz-j2-6.JPG
 meta-description: We have travelled thousands of kilometers in our van, climbed mountains, seen more sheep than I can wrap my head around and had a many grand adventure. We’ve managed to end up back here in Christchurch, the place where we landed, after a full day of flying, five months ago.
 ---
 
