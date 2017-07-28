@@ -3,7 +3,7 @@ layout: post
 title: New Zealand 3
 thumbnail: nz-3.jpg
 meta-description: I’m always singing the national anthem when I step back into the US. Every new turn of my head brings on another real life USA propaganda ad. Towering buildings, huge rolling fields, Mad Max trucks and supermarket that could house jets. We’re all crazy and I love being home.
-image: nz-j3/nz-j3-1.jpg
+image: nz-j3/nz-j3-1.JPG
 ---
 
 *There is more to life than increasing its speed -Mohandas Ghandi (spotted on a rusty old car towards the end of our trip)*
