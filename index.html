@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="page-container">
+
+  <div class="masthead-container">
+      <img class="logo"src="assets/img/logo.svg" alt="">
+  </div>
+  <div class="newest-post-container">
+  {% for post in site.posts offset: 0 limit: 1 %}
+    <div class="post-description-container">
+      <h3 class="post-title-index"><a class="link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <time class="post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <p class="meta-description">{{ post.meta-description }}</p>
+    </div>
+    <div class="img-container">
+      <img class="index-img" src="{{ site.baseurl }}/assets/img/posts/{{post.image}}" alt="">
+    </div>
+  {% endfor %}
+  </div>
+  <div class="post-list-container-outer">
+    <div class="post-list-container-inner">
+      {% for post in site.posts offset: 1 limit: 10 %}
+        <div class="img-small-post-container">
+          <img src="{{ site.baseurl }}/assets/img/posts/thumbnails/{{post.thumbnail}}" alt="">
+        </div>
+        <div class="small-post-description-container">
+          <h3><a class="link small-post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+          <time class="post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
+          <p class="small-meta-description">{{ post.meta-description }}</p>
+        </div>
+
+      {% endfor %}
+    </div>
+  </div>
+</div>

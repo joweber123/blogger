@@ -1,0 +1,17 @@
+# Site Settings
+title: blogger
+email: joweber123@gmail.com
+description:
+  James's blog
+baseurl: /blogger
+url: "http://joweber123.github.io/blogger"
+
+github_username:  joweber123
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+
+kramdown:
+  input: GFM
+gems: [jekyll-assets, autoprefixer-rails]
