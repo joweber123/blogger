@@ -2,6 +2,8 @@
 layout: post
 title: Japan 4
 thumbnail: jp-4.jpg
+image: jp-j4/jp-j4-1.JPG
+meta-description: ...After that, I guess that feeling of the need to explore just infected me...
 ---
 
 *Like the bear who went over the mountain, I went out to see what I could see. I am no scientist. I explore the neighborhood. An infant who has just learned to hold his head up has a rank and forthright way of gazing about him in bewilderment. He hasn’t the faintest clue where he is, and he aims to learn. In a couple of years, what he will have learned instead is how to fake it. Some unwonted, taught pride diverts us from our original intent, which is to explore the neighborhood, view the landscape, to discover at least where it is that we have been so startlingly set down, if we can’t learn why.*

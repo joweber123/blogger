@@ -2,6 +2,8 @@
 layout: post
 title: Japan 18
 thumbnail: jp-18.jpg
+image: jp-j18/jp-j18-1.JPG
+meta-description: ...Cheese, beer, trucks, hunting and football are what most people from Wisconsin superficially bond over, but I know that there is a tie that runs much deeper...
 ---
 
 *While it may be true that ‘everyday existence’ is a tirl of dull, repetitive activities that you infer, it’s just one layer of a many-layered cake; and if it seems an exercise in pointless mediocrity, maybe that’s only because most who live it are too narrowly focused to perceive its underlying kaleidoscopic density. - Half Asleep in Frog Pajamas- Tom Robbins*

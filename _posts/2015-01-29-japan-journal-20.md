@@ -2,6 +2,8 @@
 layout: post
 title: Japan 20
 thumbnail: jp-20.jpg
+image: jp-j20/jp-j20-3.JPG
+meta-description: ...I have held many babies in my life but it really felt different knowing that he was my nephew. I felt this urge to be close to him and watch everything that he was doing...
 ---
 
 *What is taken in by contemplation is given out in love- Eckhart*

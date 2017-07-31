@@ -2,6 +2,8 @@
 layout: post
 title: Japan 22
 thumbnail: jp-22.jpg
+image: jp-j22/jp-j22-2.JPG
+meta-description: ...I have had this day marked in my brain for so long. August 6th. My last day at school as a teacher. The last meal I will eat at Nagomi, Chika’s café...
 ---
 
 *Let us forget the lapse of time; let us forget the conflict of opinions. Let us make our appeal to the infinite, and take up our positions there- Chuang Tzu*

@@ -2,6 +2,8 @@
 layout: post
 title: Japan 10
 thumbnail: jp-10.jpg
+image: jp-j10/jp-j10-2.JPG
+meta-description: ...It also made me quite literally stop in the middle of my ride home, and stand in the night rain to consider my life at the moment...
 ---
 
 *“This beauty, however, would occur but once. A man could do nothing but commit it to memory immediately and reflect upon it thereafter. Then too it was a beauty that preserved a noble futility, a purposelessness”.*

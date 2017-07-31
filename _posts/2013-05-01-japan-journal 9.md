@@ -2,6 +2,8 @@
 layout: post
 title: Japan 9
 thumbnail: jp-9.jpg
+image: jp-j9/jp-j9-1.JPG
+meta-description: ...and he held out his arms and the woman thought that he was trying to hug her and was very confused and a bit intimidated...
 ---
 
 房総半島 Boso Peninsula

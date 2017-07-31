@@ -2,6 +2,8 @@
 layout: post
 title: Japan 6
 thumbnail: jp-6.jpg
+image: jp-j6/jp-j6-1.JPG
+meta-description: ...Already the plum trees have blossomed and they are some of the most beautiful things I have seen yet in Japan...
 ---
 
 *-“would you like me to rub your back for you” and “please excuse me for the unwanted hair”*

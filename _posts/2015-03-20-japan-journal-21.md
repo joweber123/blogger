@@ -2,6 +2,8 @@
 layout: post
 title: Japan 21
 thumbnail: jp-21.jpg
+image: jp-j21/jp-j21-2.JPG
+meta-description: ..one of the baths was on the other side of the river so everyone had to scamper naked over this sketchy little rope bridge to get from one bath to the other...
 ---
 *In trying to understand the mystery of Life, men and women have followed many different approaches. Among them, there are the ways of the scientist and mystic, but there are many more; the ways of the poets, children, clowns, shamans, to name but a few. These ways have resulted in different descriptions of the world, both verbal and nonverbal, which emphasize different aspects. All are valid and useful in the context in which they arose. All of them, however, are only descriptions, or representations, of reality and are therefore limited. None can give a complete picture of the world. The Tao of Physics- Fritjof Capra*
 

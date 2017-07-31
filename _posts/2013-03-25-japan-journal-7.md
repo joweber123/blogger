@@ -2,6 +2,8 @@
 layout: post
 title: Japan 7
 thumbnail: jp-7.jpg
+image: jp-j7/jp-j7-1.JPG
+meta-description: ...Ben had gotten some funny looks from the men at the onsen when he told them that we were going to be camping on the beach that night...
 ---
 
 I want to write this journal tonight before I forget the wonderful details that composed this past trip. I am about to embark on another extended journey and I don’t want to lose such a great experience as I have a tendency to muddle events together.

@@ -2,6 +2,8 @@
 layout: post
 title: Japan 2
 thumbnail: jp-2.jpg
+image: jp-j2/jp-j2-1.JPG
+meta-description: ...I don’t know whether to chalk it up to coincidence or be lead to believe that the Japanese are controlling their weather and that I live in a bubble unknowingly...
 ---
 
 *Something is already here, and more is coming.*

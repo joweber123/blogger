@@ -2,6 +2,8 @@
 layout: post
 title: Japan 11
 thumbnail: jp-11.jpg
+image: jp-j11/jp-j11-1.JPG
+meta-description: ...I am very pleased so far with my decision to stay at least one more year in Japan and couldn’t imagine my life anywhere but here for now...
 ---
 
 <p style="text-align: center">My poems are always unfinished: for,<br>

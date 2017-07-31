@@ -2,6 +2,9 @@
 layout: post
 title: Japan 13
 thumbnail: jp-13.jpg
+image: jp-j13/jp-j13-2.JPG
+meta-description: ...most kids seemed to have stolen their gestures from the flight crew that directs airplanes on the tarmac with these dazzlingly exaggerated arm gestures and eye contact...
+
 ---
 
 *“That I could look forward to consistent growth of perception till I die” -Les Spann (Quoted in a book by the baroness Pannonica de Koenigswarter, who was incredibly rich and knew just about every famous bebop jazz musician. She would asked all of these musicians what their three wishes were and kept a journal of them for 30 years. I found this wish to be both beautifully concise and complete and have reflected upon it often ever since.)*

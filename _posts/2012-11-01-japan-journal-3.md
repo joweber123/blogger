@@ -2,6 +2,8 @@
 layout: post
 title: Japan 3
 thumbnail: jp-3.jpg
+image: jp-j3/jp-j3-1.JPG
+meta-description: ...I was just very naked. And I think that in a past life I may have been Japanese...
 ---
 
 *“It was a day, God knows, not only of rampant signs and symbols but of wildly extensive communication via the written word”*

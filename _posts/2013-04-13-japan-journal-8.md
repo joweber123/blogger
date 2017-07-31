@@ -2,6 +2,8 @@
 layout: post
 title: Japan 8
 thumbnail: jp-8.jpg
+image: jp-j8/jp-8-1.JPG
+meta-description: ...The cherry blossom came late to Kyoto this year so we arrived right when they were in full bloom which made every place that we visited that much more beautiful...
 ---
 
 *“Some folks hide, and some folks seek, and seeking, when it’s mindless, neurotic, desperate, or pusillanimous can be a form of hiding. But there are folks who want to know and aren’t afraid to look and won’t turn tail should they find it-and if they never do, they’ll have a good time anyway because nothing neither the terrible truth nor the absence of it, is going to cheat them out of one honest breath of earth’s sweet gas”*

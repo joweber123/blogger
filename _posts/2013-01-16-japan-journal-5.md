@@ -2,6 +2,8 @@
 layout: post
 title: Japan 5
 thumbnail: jp-5.jpg
+image: jp-j5/jp-j5-1.JPG
+meta-description: ...first prayer consists of wafting some incense smoke over your head, washing your hands with some purified water and rinsing out your month and climbing a bunch of steps...
 ---
 
 *“My inner, incessant elation, which I think I’ve rightly, if repeatedly, called happiness, is threatening, I’m aware, to turn this whole composition into a fool’s soliloquy”*

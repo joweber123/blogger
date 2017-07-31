@@ -2,6 +2,8 @@
 layout: post
 title: Japan 12
 thumbnail: jp-12.jpg
+image: jp-j12/jp-j12-2.JPG
+meta-description: ...Our wandering pedals eventually took us 70km away and up into the mountains along deserted rolling back roads to a town called Nikko...
 ---
 *“Experience itself is an extremely imperfect teacher. Experience does not tell us what it is we are experiencing. Things simply happen. And if we do not know what to look for in our experience, the happenings often have no significance to us whatever”. -Language in Thought and Action- S.I. Hayakawa*
 

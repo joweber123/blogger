@@ -2,6 +2,8 @@
 layout: post
 title: Japan 14
 thumbnail: jp-14.jpg
+image: jp-j13/jp-j13-6.JPG
+meta-description: ...There are still a great number of mountains to climb in this country and I have wonderful company to climb them with...
 ---
 *People tend to take everything too serious. Especially themselves...and that’s what probably makes ‘em scared and hurt so much of the time. Life is too serious to take that seriously. Tom Robbins-Skinny Legs and All*
 

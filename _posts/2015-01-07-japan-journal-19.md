@@ -2,6 +2,8 @@
 layout: post
 title: Japan 19
 thumbnail: jp-19.jpg
+image: jp-j19/jp-j19-3.JPG
+meta-description: ...So in a way you are paying for your own present, and it is normally not something you really want or need, like a 100$ towel or plate set...
 ---
 
 *Man is made by his belief. As he believes, so he is - Bhagavad Gita*

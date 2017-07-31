@@ -2,6 +2,8 @@
 layout: post
 title: Japan 17
 thumbnail: jp-17.jpg
+image: jp-j17/jp-j17-1.JPG
+meta-description: ...Our first day we spent climbing a mountain, that in retrospect we were not at all prepared to climb. The top was covered in snow...
 ---
 *One cannot say much with mere letters and words.
 

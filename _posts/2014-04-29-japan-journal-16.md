@@ -2,6 +2,8 @@
 layout: post
 title: Japan 16
 thumbnail: jp-16.jpg
+image: jp-j16/jp-j16-1.JPG
+meta-description: ...the spring flowers have come and mostly gone and I am here on a mid spring night, past my bedtime writing to all corners of the globe...
 ---
 
  *The only constant is change. We like to think of ourselves as somehow inevitable or crucial, pivotal, that the past was a time when we were missing, and the future will always have us in it. But that is an illusion. We are ragdolls made out of many ages and skins, changelings who have slept in wood nests and hissed in the uncouth guise of waddling amphibians. We’ve played such roles for infinitely longer ages than we have been men. Our identity is a dream. We are process, not reality, for what we call reality is an illusion of the daylight, the light of our own particular day. Loren Eiseley” The Unexpected Universe”*

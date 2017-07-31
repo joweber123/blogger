@@ -3,13 +3,15 @@ layout: post
 title: New Zealand 1
 thumbnail: nz-1.jpg
 image: nz-j1/nz-j1-3.JPG
+meta-description: ...to tell the truth, it seemed too good to be true and a small part of me thought he might turn out to be a serial killer, but we decided to go for it anyway...
+
 ---
 
 *“You two aren’t from around here are you..” -most everyone we meet New Zealand.*
 
 Chika and I arrived in New Zealand’s second largest city, Christchurch one month ago. Our flight, apart from being leg numbing long, was nothing special. Upon arriving though we have experienced so much and met so many people, which is normally the case coming to a new country. I write to you now from a little café in a city five hours to the south of Christchurch, Dunedin, from which we are already about to depart, so I think I have quite a bit of filling in to accomplish in this first newsletter.
 
-<div class="post-image-container"><img class="post-image" src="/assets/img/posts/nz-j1/nz-j1-1.JPG" alt="Drawing"></div>
+<div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/nz-j1/nz-j1-1.JPG" alt="Drawing"></div>
 
 
 Before hopping on a plane, I found a website through which we have found all of our accommodation so far called Helpex.net, which I would recommend to everyone. The way it works is people post that they have a room available in their home and will offer meals to anyone who is willing to work a few hours in exchange for it each day. On the site, people are looking for help with cooking meals, taking care of farm animals, painting homes, building projects, garden work etc. Right when we started to look, I saw one listing that looked especially promising which was looking for help in an organic café right in the city where we wanted to live. We emailed the man and had a response within an hour saying we could stay for as long as we would like. To tell the truth, it seemed too good to be true and a small part of me thought he might turn out to be a serial killer, but we decided to go for it anyway. Fast forward three weeks and we are stepping off the airplane and Dan is sitting at the airport waiting to whisk us, and all of our absurdly large luggage, off to his home right on the beach.

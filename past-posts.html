@@ -1,10 +1,22 @@
 ---
-layout: default
+layout: page
 ---
-<div class="post-list-container">
-  {% for post in site.posts %}
-      <time>{{ post.date | date: "%b %-d, %Y" }}</time>
-      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-      <img src="{{ site.baseurl }}/assets/img/posts/thumbnails/{{post.thumbnail}}" alt="">
-  {% endfor %}
+
+
+
+<div class="post-list-container-outer">
+
+    {% for post in site.posts %}
+    <div class="post-list-container-inner">
+      <div class="small-post-description-container">
+        <h3 class="small-post-title"><a class="link  titleh3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <time class="post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
+        <p class="small-meta-description">{{ post.meta-description }}</p>
+      </div>
+      <div class="img-small-post-container">
+          <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
+      </div>
+    </div>
+    {% endfor %}
+
 </div>
