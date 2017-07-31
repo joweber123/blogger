@@ -2,7 +2,7 @@
 layout: post
 title: Japan 7
 thumbnail: jp-7.jpg
-image: jp-j7/jp-j7-1.JPG
+image: jp-j7/jp-j7-1.jpg
 meta-description: ...Ben had gotten some funny looks from the men at the onsen when he told them that we were going to be camping on the beach that night...
 ---
 
@@ -10,7 +10,7 @@ I want to write this journal tonight before I forget the wonderful details that 
 
 Ben and I started off early in the morning to what would prove to be a very stressful train ride to the Izu peninsula of Japan. We had a Wednesday vacation and we took advantage of the gorgeous weather by taking Thursday and Friday off to have a 5 day vacation. We had traveled with our bikes before in trains but this was our first time doing so with 50 pounds each of extra gear. A bike can get heavy very quick carrying it around a train station, but we arrived at in the northern part of the peninsula in a quick three and half hours in a town called Izunokuni. We were expecting rain all day and were greeted by a wonderful bright sun. We loaded up the bikes and I was riding a real touring bike for the first time in my life. I was surprised at how comfortable a loaded, heavy bike can be.
 
-<div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/jp-j7/jp-j7-1.JPG" alt="Drawing"></div>
+<div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/jp-j7/jp-j7-1.jpg" alt="Drawing"></div>
 
 Our first day of riding basically followed the western coast along the only highway there was. The road was well paved and quiet and we made it that day to a town called Heda. We were both surprised at how little we had rode that day looking at the map that night of the whole rest of the peninsula that we wanted to cover in the next days. We stopped in Heda because it had an onsen (natural hot spring public bath) and because we were told that we could sleep on the beach. Onsens make all the pain and filthiness of sweating and sitting on a saddle for 12 hours just melt away. After we were all clean it started to rain which I was actually looking forward to in a way. I had designed and built a pannier for my bike which I had fabricated out of a 5$ recycle shop bag and a 1 $ wire self. It looked great but I wasn’t sure if it was going to be waterproof or not. It wasn’t. But no worries because I had stuffed everything in plastic bags (which abound in this country) and I had equipped myself with my 1$ rain pains, front basket cover and I already had the rain coat which had accompanied me on my Camino de Santiago. We were told by the women in the convenience store that everything was closed for the night and that the road was too dangerous to keep going for the night. Ben had gotten some funny looks from the men at the onsen when he told them that we were going to be camping on the beach that night so we were trying to keep that detail under wraps from everyone in the town. We decided to investigate the town for ourselves and found one shop open who’s owner had been standing outside waving us in a couple of hours before hand. Good advertising. We had our first wonderful meal of the tour and it felt great to eat after a long day of riding. Fresh sashimi and tempura. We biked to the beach afterwards and set up camp in the rain only to have it stop raining ten minutes after struggling to get everything up and dry. We both slept really bad because of the wind and were a bit grumpy getting up in the morning.
 

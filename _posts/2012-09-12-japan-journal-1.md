@@ -2,7 +2,7 @@
 layout: post
 title: Japan 1
 thumbnail: jp-1.jpg
-image: jp-j1/jp-j1-2.jpg
+image: jp-j1/jp-j1-2.JPG
 meta-description: ...It’s not a grid, it doesn’t have a main street, is not a suburb and it is definitely isn’t rural...
 ---
 *Japanese teacher to me today at lunch: Your food bowl so big, a goldfish could swim in it.*
