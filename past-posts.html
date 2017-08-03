@@ -3,20 +3,42 @@ layout: page
 ---
 
 
+<div class="page-container">
+  <div class="page-title-contain">
+    <h1 class="page-title">Wander(v.)</h1>
+    <span class="line"></span>
 
-<div class="post-list-container-outer">
+    <p class="page-description">A blog celebrating the unknown and how to get there</p>
 
-    {% for post in site.posts %}
-    <div class="post-list-container-inner">
-      <div class="small-post-description-container">
-        <h3 class="small-post-title"><a class="link  titleh3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <time class="post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
-        <p class="small-meta-description">{{ post.meta-description }}</p>
-      </div>
-      <div class="img-small-post-container">
-          <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
-      </div>
-    </div>
-    {% endfor %}
+  </div>
+  <div class="page-intro-post">
 
+  </div>
+
+
+
+
+  <div class="post-list-container-outer">
+
+      {% for post in site.posts  %}
+
+
+        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}">
+        </a>
+
+        <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="img-small-post-container">
+              <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
+          </div>
+          <div class="small-post-description-container">
+            <h2 class="link small-post-title titleh2">{{ post.title }}</h2>
+            <time class="link post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
+            <p class="link small-meta-description">{{ post.meta-description }}</p>
+          </div>
+        </a>
+
+      {% endfor %}
+
+  </div>
+  
 </div>

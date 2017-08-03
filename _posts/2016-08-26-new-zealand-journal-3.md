@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Zealand 3
+title: NZ 3
 thumbnail: nz-3.jpg
 meta-description: ...Every new turn of my head brings on another real life USA propaganda ad. Towering buildings, rolling fields, Mad Max trucks and supermarket that could house jets...
 image: nz-j3/nz-j3-1.JPG

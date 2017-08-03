@@ -1,6 +1,6 @@
 $text-color: #2E2D33
 $theme-color: #1f3566
-$theme-color-secondary: #5c6872
+$theme-color-secondary: #74828F
 $cta-color: #E45641
 $cta-secondary: #44B3C2
 
@@ -20,25 +20,22 @@ body
 
 a
   text-decoration: none
-  color: $text-color
 h1
   font-size: 40px
   line-height: 1
   margin: 0
   color: $theme-color
   @media (min-width: 750px)
-    font-size: 50px
+    font-size: 70px
 
     line-height: 1
-  @media (min-width: 1000px)
-    font-size: 70px
 
 
 h2
   font-size: 35px
   line-height: 1
   margin: 0
-  color: $theme-color
+  color: $theme-color-secondary
   @media (min-width: 750px)
     font-size: 60px
 h3
@@ -50,7 +47,7 @@ h3
 .titleh1
   color: $theme-color
 .titleh2
-  color: $theme-color
+  color: $theme-color-secondary
 .titleh3
   color: $theme-color
 .nav-color
@@ -62,10 +59,6 @@ h3
 
   &:hover
     text-decoration: none
-.about-color
-  color: $cta-color
-.about-color-secondary
-  color: $cta-secondary
 
 
 .nav-container
@@ -98,68 +91,6 @@ h3
     @media (min-width: 750px)
       display: inline
       padding: 0 40px
-.page-title-contain
-  position: absolute
-  width: calc(100% - 30px)
-  display: block
-  z-index: 1000
-
-  padding-top: 20px
-  @media (min-width: 750px)
-    width: 100%
-  .page-title
-
-    color: white
-    display: block
-    text-align: center
-    font-size: 50px
-    @media (min-width: 750px)
-      font-size: 120px
-
-    @media (min-width: 1100px)
-      font-size: 200px
-
-
-  .line
-    margin-top: 20px
-    display: block
-    height: 2px
-    margin-left: auto
-    margin-right: auto
-
-    line-height: 1.6
-    background-color: white
-  .page-description
-    display: block
-    text-align: center
-    background-color: rgba(255, 255, 255, 0.8)
-
-.page-intro-post
-  position: relative
-  height: calc(100vh - 100px)
-  background-image: url(../assets/wanderlust1.JPG)
-  background-size: cover
-  height: 30vh
-
-  @media (min-width: 750px)
-    width: 100%
-    height: 40vh
-  @media (min-width: 1100px)
-    height: 45vh
-
-.page-intro
-  position: relative
-  height: calc(100vh - 100px)
-  background-image: url(../assets/wanderlust1.JPG)
-  background-size: cover
-
-  @media (min-width: 750px)
-    width: 100%
-    height: calc(100vh - 120px)
-
-
-
-
 
 
 
@@ -174,6 +105,10 @@ h3
     float: left
     box-sizing: border-box
 
+
+
+
+
 .logo
   height: 100px
   width: auto
@@ -181,11 +116,10 @@ h3
 
   @media (min-width: 750px)
     height: auto
-    width: 50%
+    width: 70%
 
 .newest-post-container
   margin-top: 20px
-  position: relative
 
 
   @media (min-width: 750px)
@@ -212,7 +146,7 @@ h3
       top: 10vh
       max-width: 50vw
       display: inline-block
-      right: 8vw
+      right: 5vw
       margin-right: 20px
       margin-top: 0px
 
@@ -230,27 +164,18 @@ h3
         padding-left: 20px
         opacity: 1
 
-
     .meta-description
       @media (min-width: 750px)
         text-align: left
         padding-right: 20px
         padding-left: 20px
-    .new-post
-      @media (min-width: 750px)
-        color: #DAB613
-        font-size: 20px
-        text-align: left
-        padding-right: 20px
-        padding-left: 20px
-        margin-top: -10px
   .img-container
     position: relative
     z-index: -10
 
     @media (min-width: 750px)
       height: calc(100vh - 50px)
-      width: 40vh
+      width: 50vh
 
     .index-img
       width: 100%
@@ -261,25 +186,8 @@ h3
         height: 100vh
         object-position: right
 
-.small-about
-  text-align: center
-  @media (min-width: 750px)
-    width: 750px
-    margin-left: auto
-    margin-right: auto
-    padding: 30px 0
 
-.post-list-container-outer-first
-  clear: both
-  position: relative
-  top: 10px
-  padding-bottom: 20px
-  @media (min-width: 750px)
-    clear: both
-    position: relative
-    padding-bottom: 0
-
-.post-list-container-outer-second
+.post-list-container-outer
   clear: both
   position: relative
   top: 10px
@@ -288,7 +196,6 @@ h3
     clear: both
     position: relative
     padding-bottom: 30px
-
 .small-post-description-container
   display: block
   position: absolute
@@ -296,114 +203,56 @@ h3
   margin-top: 30px
 
   @media (min-width: 750px)
-    width: 470px
+    width: 60vw
     display: block
     position: absolute
-    background: linear-gradient(to right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) )
-    box-sizing: border-box
-    padding: 5px 0px 5px 30px
+    background-color: rgba(255, 255, 255, 0.5)
+    left: 30vw
+    padding: 5px 30px
     margin-top: 10px
-
 
   .small-meta-description
     display: none
     @media (min-width: 750px)
       display: block
       width: 90%
-
-  .new
-    color: #ECC514
   .small-post-title
     margin-top: 10px
     margin-bottom: 0
     line-height: 1.2
 
-
-.post-list-container-cover
-  @media (min-width: 750px)
-    width: 100vw
-    margin-top: 10px
-    clear: both
-    content: ""
-    display: table
-    height: 40vh
-    position: absolute
-    background-color: rgba(255, 255, 255, 0)
-    z-index: 100
-    &:first-child
-      margin-top: 0
-
-    &:hover
-      transition: all 0.3s ease-in-out
-      background-color: rgba(255, 255, 255, 0.3)
-
-
-
-
 .post-list-container-inner
   height: calc(100vh / 3)
-  width: 100%
   overflow: hidden
   margin-top: 5px
-  display: block
-  clear: both
-  content: ""
-  display: table
-  box-sizing: border-box
-  position: relative
-
   @media (min-width: 750px)
-    width: 100vw
+    width: 60vw
     margin-top: 10px
-    clear: both
-    content: ""
-    display: table
-
-
   .img-small-post-container
     width: 100%
     height: auto
     box-sizing: border-box
-    position: absolute
-    margin-top: 10px
     @media (min-width: 750px)
-      height: 40vh
-      width: 750px
+      height: 50vh
+      width: 60vw
       overflow: hidden
-      float: right
-      position: static
-      margin-top: 0
     .post-image-small
-      width: 100%
+      width: 110%
       height: auto
       box-sizing: border-box
 
       @media (min-width: 750px)
-        width: 100%
-        height: auto
-        box-sizing: border-box
-
-.move
-  transition: all 1s ease-in-out
-  transform: scale(1.1) translate(25px, -100px)
-
-
-
 
 .home-button
   text-align: center
   display: block
   background-color: $cta-color
-
+  width: 30vw
   border-radius: 10px
   margin-left: auto
   margin-right: auto
   text-decoration: none
   color: white
-  clear: both
-  @media (min-width: 750px)
-    width: 30vw
-
 
   &:hover
     box-shadow: 0px 3px 10px rgba(0,0,0,0.2)
@@ -413,11 +262,8 @@ h3
   height: 100px
   width: auto
   display: block
-  padding: 0 0 10px 0
   @media (min-width: 750px)
     padding: 10px
-
-
 
 
 .pages-nav-container
@@ -430,7 +276,6 @@ h3
   left: 115px
   width: calc(100vw - 130px)
   box-sizing: border-box
-  z-index: 100
 
 
 
@@ -538,4 +383,3 @@ footer
   margin-bottom: 50px
   display: block
   text-align: center
-  clear: both

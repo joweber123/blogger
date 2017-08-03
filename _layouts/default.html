@@ -6,8 +6,11 @@
 <html>
 	{% include head.html %}
 	<body>
-		{% include header.html %}
+		{% include header-pages.html %}
+		<a href="/blogger/index.html"><img class="logo-post"src="assets/img/logo.svg" alt=""></a>
 		{{ content }}
 		{% include footer.html %}
 	</body>
+	<script src="assets/js/jquery-2.1.4.min.js"></script>
+  <script src="assets/js/functions.js" type="text/javascript"></script>
 </html>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Zealand 1
+title: NZ 1
 thumbnail: nz-1.jpg
 image: nz-j1/nz-j1-3.JPG
 meta-description: ...to tell the truth, it seemed too good to be true and a small part of me thought he might turn out to be a serial killer, but we decided to go for it anyway...
