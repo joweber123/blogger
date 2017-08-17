@@ -1,8 +1,15 @@
 .post
-  margin-left: 15%
-  margin-right: 15%
-  line-height: 1.9
+  margin-left: 5%
+  margin-right: 5%
+  line-height: 1.6
   text-align: justify
+
+
+  @media (min-width: 800px)
+    margin-left: 15%
+    margin-right: 15%
+    line-height: 1.9
+    text-align: justify
 
 .post-header
   text-align: center
@@ -22,16 +29,24 @@
   display: inline-block
 
 .post-image-container-left
-  max-width: 50%
-  float: left
-  padding-right: 20px
-  padding-top: 10px
+  max-width: 100%
+  height: auto
+  display: inline-block
+  @media (min-width: 800px)
+    max-width: 50%
+    float: left
+    padding-right: 20px
+    padding-top: 10px
 
 .post-image-container-right
-  max-width: 50%
-  float: right
-  padding-left: 20px
-  padding-top: 10px
+  max-width: 100%
+  height: auto
+  display: inline-block
+  @media (min-width: 800px)
+    max-width: 50%
+    float: right
+    padding-left: 20px
+    padding-top: 10px
 
 
 
