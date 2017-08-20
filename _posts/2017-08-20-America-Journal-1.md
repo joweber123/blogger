@@ -59,4 +59,4 @@ cats and acrobats,
 
 <div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/a-j1/a-j1-12.JPG" alt="Drawing"></div>
 
-<div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/a-j1/a-j1-13.JPG" alt="Drawing"></div>
+<div class="post-image-container"><img class="post-image" src="{{ site.url }}/assets/img/posts/a-j1/a-j1-13.jpg" alt="Drawing"></div>
