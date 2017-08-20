@@ -7,25 +7,13 @@ layout: page
   <div class="page-title-contain">
     <h1 class="page-title">Eyes wide open</h1>
     <span class="line"></span>
-
     <p class="page-description">A Traveling Journal -By James Weber</p>
-
   </div>
-  <div class="page-intro-post">
-
-  </div>
-
-
-
+  <div class="page-intro-post"></div>
 
   <div class="post-list-container-outer">
-
       {% for post in site.posts  %}
-
-
-        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}">
-        </a>
-
+        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
         <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
           <div class="img-small-post-container">
               <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
@@ -36,9 +24,6 @@ layout: page
             <p class="link small-meta-description">{{ post.meta-description }}</p>
           </div>
         </a>
-
       {% endfor %}
-
   </div>
-
 </div>

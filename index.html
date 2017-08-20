@@ -6,31 +6,20 @@ layout: default
   <div class="page-title-contain">
     <h1 class="page-title">Eyes Wide Open</h1>
     <span class="line"></span>
-
     <p class="page-description">A Traveling Journal -By James Weber</p>
-
   </div>
-  <div class="page-intro">
 
-  </div>
+  <div class="page-intro"></div>
 
   <div class="small-about">
     <h3>Hi</h3>
     <p>My name is James and I've lived abroad for many years now. I started these journals/letters/newsletters as a way of keeping in touch with my family and friends. They are now my way of keeping in touch with the world.  If you'd like to know more about me, check out <a class="link about-color" href="/blogger/about.html">here</a></p>
-
     <p>Wet your whistle with these first few posts and feel free to poke around <a class="link about-color-secondary" href="/blogger/past-posts.html">here</a> all the way to the my first letter home many years ago.  Thanks for the taking the time to stop by </p>
-
-
-
   </div>
 
   <div class="post-list-container-outer-first">
-
       {% for post in site.posts limit: 1 %}
-
-        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}">
-        </a>
-
+        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
         <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
           <div class="img-small-post-container">
               <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
@@ -42,20 +31,12 @@ layout: default
             <p class="new">*NEW*</p>
           </div>
         </a>
-
       {% endfor %}
-
   </div>
 
-
   <div class="post-list-container-outer-second">
-
       {% for post in site.posts offset: 1 limit: 6 %}
-
-
-        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}">
-        </a>
-
+        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
         <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
           <div class="img-small-post-container">
               <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
@@ -64,12 +45,9 @@ layout: default
             <h2 class="link small-post-title titleh2">{{ post.title }}</h2>
             <time class="link post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
             <p class="link small-meta-description">{{ post.meta-description }}</p>
-
           </div>
         </a>
-
       {% endfor %}
-
   </div>
   <a class="link home-button" href="/blogger/past-posts.html">Check out even more posts</a>
 </div>
