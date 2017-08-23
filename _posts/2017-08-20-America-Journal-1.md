@@ -1,7 +1,7 @@
 ---
 layout: post
 title: America 1
-image: jp-j1/jp-j1-2.JPG
+image: a-j1/a-j1-2.JPG
 meta-description: ...Don’t get me wrong, people all over the world are quirky.  Americans, however, unabashedly pump out R&B on trains...
 ---
 
