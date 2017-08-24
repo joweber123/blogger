@@ -5,9 +5,13 @@
 <html>
 {% include head.html %}
   <body>
-    
+
     {% include header-pages.html %}
-    <a href="/blogger/index.html"><img class="logo-post" src="{{ site.url }}/assets/img/logo.svg" alt=""></a>
+    <div class="page-title-contain">
+      <h1 class="page-title">Eyes wide open</h1>
+
+    </div>
+    <div class="page-intro-post"></div>
     <h2 class="post-header">{{ page.title }}</h2>
     <p class="meta-post">{{ page.date | date_to_string }}</p>
 
