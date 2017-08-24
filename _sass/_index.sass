@@ -14,6 +14,7 @@ body
   box-sizing: border-box
 
 
+
 a
   text-decoration: none
   color: $text-color
@@ -87,7 +88,7 @@ h3
 
 .page-title-contain
   position: absolute
-  width: calc(100% - 30px)
+  width: 100%
   display: block
   z-index: 1000
   padding-top: 60px
@@ -98,7 +99,10 @@ h3
     display: block
     text-align: center
     font-size: 35px
-    @media (min-width: 785px)
+    @media (min-width: 500px)
+      font-size: 70px
+
+    @media (min-width: 750px)
       font-size: 100px
     @media (min-width: 1175px)
       font-size: 150px
@@ -460,27 +464,14 @@ h3
     padding-top: 40px
     width: 50vw
 
-  .contact-icons-padding
-    display: flex
-    justify-content: center
-    align-items: center
-    border-radius: 50%
-    background-color: $theme-color
-    height: 60px
-    width: 60px
-    &:hover
-      background-color: $cta-secondary
-      transition: all 0.3s ease-in-out
-    @media (min-width: 750px)
-      height: 80px
-      width: 80px
 
-    .contact-icons
-      width: 30px
-      height: 30px
-      @media (min-width: 750px)
-        width: 50px
-        height: 50px
+
+  .contact-icons
+    width: 40px
+    height: 40px
+    @media (min-width: 750px)
+      width: 70px
+      height: 70px
 
 footer
   margin-top: 50px
