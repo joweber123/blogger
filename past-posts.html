@@ -28,7 +28,7 @@ layout: page
   </div>
 
   <div class="post-list-container-outer-second">
-      {% for post in site.posts offset: 1 }
+      {% for post in site.posts offset: 1 %}
         <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
         <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
           <div class="img-small-post-container">
