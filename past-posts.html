@@ -10,8 +10,25 @@ layout: page
   </div>
   <div class="page-intro-post"></div>
 
-  <div class="post-list-container-outer">
-      {% for post in site.posts  %}
+  <div class="post-list-container-outer-first">
+      {% for post in site.posts limit: 1 %}
+        <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
+        <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="img-small-post-container">
+              <img class="post-image-small" src="assets/img/posts/{{post.image}}" alt="">
+          </div>
+          <div class="small-post-description-container">
+            <h2 class="link small-post-title titleh2">{{ post.title }}</h2>
+            <time class="link post-date">{{ post.date | date: "%b %-d, %Y" }}</time>
+            <p class="link small-meta-description">{{ post.meta-description }}</p>
+            <p class="new">*NEW*</p>
+          </div>
+        </a>
+      {% endfor %}
+  </div>
+
+  <div class="post-list-container-outer-second">
+      {% for post in site.posts offset: 1 limit: 6 %}
         <a class="post-list-container-cover" href="{{ post.url | prepend: site.baseurl }}"></a>
         <a class="post-list-container-inner" href="{{ post.url | prepend: site.baseurl }}">
           <div class="img-small-post-container">
